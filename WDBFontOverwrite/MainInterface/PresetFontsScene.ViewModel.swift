@@ -61,6 +61,11 @@ extension PresetFontsScene {
                 postScriptName: "Chococooky",
                 repackedPath: "Chococooky.woff2"
             ),
+            FontToReplace(
+                name: "KoPub Dotum Medium",
+                postScriptName: "KoPubDotumMedium",
+                repackedPath: "KoPubDotumMedium.woff2"
+            ),
         ]
         
         func overwrite(withName name: String) async {

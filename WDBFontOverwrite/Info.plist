@@ -4,6 +4,7 @@
 <dict>
 	<key>UIAppFonts</key>
 	<array>
+		<string>PreviewFonts/KoPubDotumMedium.ttf</string>
 		<string>PreviewFonts/Chococooky.ttf</string>
 		<string>PreviewFonts/Comic Sans MS.ttf</string>
 		<string>PreviewFonts/DejaVuSansCondensed.ttf</string>
